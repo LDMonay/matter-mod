@@ -1,0 +1,85 @@
+[
+    {
+        "type": "item_group",
+        "id": "gunsmith_tools",
+        "items": [
+            [ "conversion_kit", 4 ],
+            [ "chem_raw_matter", 10 ],
+            [ "textbook_conversion_ammo", 8 ],
+            [ "textbook_conversion_misc", 4 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "chem_school",
+        "items": [
+            [ "conversion_kit", 4 ],
+            [ "chem_raw_matter", 10 ],
+            [ "textbook_conversion", 10 ],
+            [ "textbook_conversion_food", 2 ],
+            [ "textbook_conversion_ammo", 2 ],
+            [ "textbook_conversion_misc", 10 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "chem_home",
+        "items": [
+            [ "conversion_kit", 6 ],
+            [ "chem_raw_matter", 10 ],
+            [ "textbook_conversion", 4 ],
+            [ "textbook_conversion_food", 2 ],
+            [ "textbook_conversion_ammo", 2 ],
+            [ "textbook_conversion_misc", 4 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "chem_lab",
+        "items": [
+            [ "conversion_kit", 10 ],
+            [ "chem_raw_matter", 10 ],
+            [ "textbook_conversion", 4 ],
+            [ "textbook_conversion_misc", 10 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "science",
+        "items": [
+            [ "conversion_kit", 4 ],
+            [ "chem_raw_matter", 10 ],
+            [ "textbook_conversion", 8 ],
+            [ "textbook_conversion_food", 4 ],
+            [ "textbook_conversion_ammo", 4 ],
+            [ "textbook_conversion_misc", 8 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "homebooks",
+        "items": [
+            [ "textbook_conversion", 2 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "textbooks",
+        "items": [
+            [ "textbook_conversion", 8 ],
+            [ "textbook_conversion_food", 6 ],
+            [ "textbook_conversion_ammo", 6 ],
+            [ "textbook_conversion_misc", 6 ]
+        ]
+    },
+    {
+        "type": "item_group",
+        "id": "manuals",
+        "items": [
+            [ "textbook_conversion", 3 ],
+            [ "textbook_conversion_food", 2 ],
+            [ "textbook_conversion_ammo", 2 ],
+            [ "textbook_conversion_misc", 2 ]
+        ]
+    }
+]

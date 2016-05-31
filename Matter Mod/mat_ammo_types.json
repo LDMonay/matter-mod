@@ -1,0 +1,8 @@
+[ 
+	{
+        "type" : "ammunition_type",
+        "id" : "matter",
+        "name" : "matter",
+        "default" : "chem_raw_matter"
+    }
+]

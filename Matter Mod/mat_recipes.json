@@ -1,0 +1,1040 @@
+[
+    {
+        "type": "recipe",
+        "result": "chem_raw_matter",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_CHEMICALS",
+        "skill_used": "fabrication",
+        "difficulty": 0,
+        "time": 24000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "adv_chemistry", 5 ], [ "textbook_chemistry", 5 ], [ "recipe_labchem", 5 ], [ "textbook_conversion", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", -1 ]
+            ]
+        ],
+        "components": [
+            [
+                [ "water", 50 ],
+                [ "2x4", 4 ],
+                [ "stick", 4 ],
+                [ "steel_chunk", 1 ],
+                [ "scrap", 3 ],
+                [ "gasoline", 200 ],
+                [ "rock", 5 ],
+                [ "plastic_chunk", 4 ],
+                [ "rag", 10 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "rock",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 0,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 0 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 15 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "water_clean",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_DRINKS",
+        "skill_used": "fabrication",
+        "difficulty": 0,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 0 ], [ "textbook_conversion_food", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 2 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "2x4",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 0,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 0 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 15 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "steel_chunk",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 0,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 0 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 60 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "gasoline",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 55 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "bleach",
+        "id_suffix": "from_matter",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_CHEMICALS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 15 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "charcoal",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 55 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "ammonia",
+        "id_suffix": "from_matter",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_CHEMICALS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 15 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "dry_meat",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_MEAT",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 2 ], [ "textbook_conversion_food", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 35 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "dry_veggy",
+        "id_suffix": "from_matter",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_FOOD_VEGGI",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion", 2 ], [ "textbook_conversion_food", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 25 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "9mm",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "9mmP",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "9mmP2",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "223",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 130 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "22_fmj",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 250 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "32_acp",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "38_special",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "40sw",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "45_acp",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "45_jhp",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "545",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "500_Magnum",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "556",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "57mm",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 200 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "762_51",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "762_m43",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 150 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "8mm_caseless",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_BULLETS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 200 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "grenade",
+        "id_suffix": "from_matter",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_ammo", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 500 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "bottle_plastic",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 30 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "bottle_plastic_small",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 500,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 15 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "bag_bundle_10",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 500,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 50 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "rag",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 500,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 8 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "can_food",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": 500,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 2 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 10 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "nail",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 50 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "paper",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 500,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 5 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "rebar",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 55 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "bottle_glass",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 30 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "jug_plastic",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 60 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "jerrycan",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 180 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "jerrycan_big",
+        "id_suffix": "from_matter",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_CONTAINERS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_misc", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 300 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "sugar",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 50 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "salt",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 50 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "coffee_raw",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 5,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 5 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "milk_powder",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 5,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 5 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "beer",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 60 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "flour",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 30 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "dry_rice",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_VEGGI",
+        "skill_used": "fabrication",
+        "difficulty": 5,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 5 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "dry_fruit",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_VEGGI",
+        "skill_used": "fabrication",
+        "difficulty": 5,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 5 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 30 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "apple",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_VEGGI",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 60 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "lard",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_MEAT",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 35 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "dry_fish",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_MEAT",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 35 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "cooking_oil",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_DRINKS",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 25 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "cheese",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 65 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "yeast",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 4,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 4 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "seasoning_italian",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_OTHER",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 200 ]
+            ]
+        ]
+    },
+    {
+        "type": "recipe",
+        "result": "vodka",
+        "id_suffix": "from_matter",
+        "category": "CC_FOOD",
+        "subcategory": "CSC_FOOD_DRINKS",
+        "skill_used": "fabrication",
+        "difficulty": 6,
+        "time": 1000,
+        "reversible": false,
+        "autolearn": false,
+        "book_learn": [ [ "textbook_conversion_food", 6 ] ],
+        "tools": [
+            [
+                [ "conversion_kit", 100 ]
+            ]
+        ]
+    }
+]
